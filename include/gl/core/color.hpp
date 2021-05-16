@@ -12,8 +12,6 @@ namespace gl {
 			this->set(red, green, blue, alpha);
 		};
 
-		~color() {};
-
 	public:
 		inline float get_red() { return (this->red); };
 		inline float get_green() { return (this->green); };

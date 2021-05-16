@@ -1,9 +1,9 @@
 #pragma once
 
-#include "size.hpp"
-#include "color.hpp"
-#include "coordinates.hpp"
-#include "object.hpp"
+#include "gl/core/size.hpp"
+#include "gl/core/color.hpp"
+#include "gl/core/coordinates.hpp"
+#include "gl/core/object.hpp"
 
 #include <string>
 

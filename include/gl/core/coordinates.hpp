@@ -12,8 +12,6 @@ namespace gl {
 			this->set(x, y, z);
 		};
 
-		~coordinates() {};
-
 	public:
 		inline float get_x() { return (this->x); };
 		inline float get_y() { return (this->y); };

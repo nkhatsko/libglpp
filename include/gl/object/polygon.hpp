@@ -1,8 +1,8 @@
 #pragma once
 
-#include "color.hpp"
-#include "coordinates.hpp"
-#include "object.hpp"
+#include "gl/core/color.hpp"
+#include "gl/core/coordinates.hpp"
+#include "gl/core/object.hpp"
 
 #include <list>
 #include <memory>

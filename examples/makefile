@@ -14,7 +14,7 @@ BIN := $(patsubst %.cpp, %.out, $(SRC))
 # library parametres
 LIB := -I../build/include/
 LIB += -L../build/library/
-LIB += -lglpp
+LIB += -lgl++
 LIB += -framework OpenGL
 LIB += -lglfw
 

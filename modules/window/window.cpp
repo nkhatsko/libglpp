@@ -1,4 +1,4 @@
-#include "gl/window.hpp"
+#include "gl/window/window.hpp"
 
 
 using namespace gl;

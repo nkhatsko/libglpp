@@ -12,8 +12,6 @@ namespace gl {
 			this->set(width, height, length);
 		};
 
-		~size() {};
-
 	public:
 		inline float get_width() { return (this->width); };
 		inline float get_height() { return (this->height); };

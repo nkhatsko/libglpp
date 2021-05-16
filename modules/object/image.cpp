@@ -1,4 +1,4 @@
-#include "gl/image.hpp"
+#include "gl/object/image.hpp"
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>

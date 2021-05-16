@@ -1,4 +1,4 @@
-#include "gl/point.hpp"
+#include "gl/object/point.hpp"
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>

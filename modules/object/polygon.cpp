@@ -1,4 +1,4 @@
-#include "gl/polygon.hpp"
+#include "gl/object/polygon.hpp"
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>

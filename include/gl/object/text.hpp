@@ -1,7 +1,7 @@
 #pragma once
 
-#include "coordinates.hpp"
-#include "object.hpp"
+#include "gl/core/coordinates.hpp"
+#include "gl/core/object.hpp"
 
 #include <string>
 
